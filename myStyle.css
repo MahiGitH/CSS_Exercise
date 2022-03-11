@@ -1,0 +1,33 @@
+
+h1 {
+  color: blue;
+  background-color: yellow;
+}
+#mytable {
+  font-family: Times New Roman;
+  
+  width: 100%;
+}
+h2:hover{
+  background-color: rgb(0, 255, 149);
+}
+#mytable {
+  font-family: Times New Roman;
+  
+  width: 100%;
+}
+#mytable td, #mytable th {
+  border: 1px solid #abc;
+  padding: 8px;
+}
+#mytable th {
+  padding-top :12px;
+  padding-bottom:12px;
+  text-align: center;
+  background-color: darkorchid;
+  color: black;
+}
+#mytable tr:hover{background-color: #abc;}
+.myfirstclass:hover{
+  background-color: rgb(0, 255, 149);
+}
